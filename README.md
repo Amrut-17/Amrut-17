@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="amrutpatil.beco18@dypgroup.edu.in" target="blank">OUTLOOK</a><br>
 <a href="https://instagram.com/_amrut_1208" target="blank">INSTAGRAM</a><br>
 <a href="https://www.codechef.com/users/amrut_17" target="blank">CODECHEF</a><br>
 <a href="https://auth.geeksforgeeks.org/user/amrutpatil9977@gmail.com" target="blank">GFG</a><br>
