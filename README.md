@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrut Patil.</h1>
 <h3 align="center">Web Developer | Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **Travello(web-app)**
 
 - 🌱 I’m currently learning **Django**
 
